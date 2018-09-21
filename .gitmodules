@@ -1,0 +1,6 @@
+[submodule "Chapter04"]
+	path = Chapter04
+	url = https://github.com/jdavies0/ZeroToBlockchain_template.git
+[submodule "Chapter05"]
+	path = Chapter05
+	url = https://github.com/jdavies0/ZeroToBlockchain_template.git
